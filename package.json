@@ -1,0 +1,31 @@
+{
+  "name": "react-native-rabbit-image-picker",
+  "version": "0.0.1",
+  "description": "React Native Image Picker ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "rm -rf android/build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raden-Hor/react-native-image-crop-picker.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "image",
+    "picker",
+    "crop",
+    "cropping",
+    "multiple",
+    "camera"
+  ],
+  "author": "Raden Hor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raden-Hor/react-native-image-crop-picker/issues"
+  },
+  "homepage": "https://github.com/Raden-Hor/react-native-image-crop-picker#readme"
+}
